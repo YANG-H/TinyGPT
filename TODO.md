@@ -1,0 +1,2 @@
+- [ ] Make GPT-J runnable!
+- [ ] Evaluate GPT-J on some benchmarks!
